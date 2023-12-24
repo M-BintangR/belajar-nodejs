@@ -1,4 +1,4 @@
 ﻿# 🌱 BELAJAR DASAR NODE JS
 
-Merupakan latihan untuk mempelajari basic node js 
+Merupakan latihan untuk mempelajari basic node js 🧠
 
